@@ -5,7 +5,6 @@
 *.blg
 *.dvi
 *.log
-*.pdf
 *.xml
 *.synctex.gz
 *.fdb_latexmk
